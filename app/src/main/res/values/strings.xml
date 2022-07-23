@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">Motion_App</string>
+    <string name="activity4_title">Hakuna Matata</string>
+    <string name ="activity_4_tagline">Offline is better tha online</string>
+    <string name="activity_4_para_1"><![CDATA[ Lorem ipsum dolor sit amet, consectetur adipisicing elit. Aliquam amet atque, commodi consectetur consequatur cumque dignissimos distinctio dolore earum enim eos fugiat impedit incidunt laborum laudantium magnam maxime molestiae molestias mollitia nulla officiis pariatur provident quasi quo, quos reiciendis repudiandae sint, soluta tempora totam. Cupiditate ipsa nemo officiis quos suscipit?]]></string>
+
+</resources>
